@@ -1,0 +1,41 @@
+{
+    "name": "attrixtech/laravel-icons",
+    "description": "Laravel Icons by Vijay Goswami, Attrix Technologies",
+    "keywords": [
+        "attrixtech",
+        "laravel",
+        "laravel-icons"
+    ],
+    "homepage": "https://github.com/attrixtech/laravel-icons",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vijay Goswami",
+            "email": "vijaygoswami@attrixtech.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Attrixtech\\LaravelIcons\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Attrixtech\\LaravelIcons\\LaravelIconsServiceProvider"
+            ],
+            "aliases": {
+                "LaravelIcons": "Attrixtech\\LaravelIcons\\Facades\\LaravelIcons"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
