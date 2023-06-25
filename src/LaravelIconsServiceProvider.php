@@ -10,6 +10,6 @@ class LaravelIconsServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__ . '/../resources/views/components/icons' => base_path('resources/views/components/icons'),
-        ]);
+        ], 'laravel-icons');
     }
 }
