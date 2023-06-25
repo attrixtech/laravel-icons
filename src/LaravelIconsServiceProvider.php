@@ -9,7 +9,7 @@ class LaravelIconsServiceProvider extends ServiceProvider
     public function boot():void
     {
         $this->publishes([
-            __DIR__ . '/../resources/views/components/icons' => resource_path('views/components/icons'),
-        ], 'icons');
+            __DIR__ . '/../resources/views/components/icons' => base_path('resources/views/components/icons'),
+        ]);
     }
 }
