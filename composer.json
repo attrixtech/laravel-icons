@@ -1,10 +1,11 @@
 {
     "name": "attrixtech/laravel-icons",
-    "description": "Laravel Icons by Vijay Goswami, Attrix Technologies",
+    "description": "Laravel Icons is a easy to use SVG icons package that you will ever need in your laravel project.",
     "keywords": [
         "attrixtech",
-        "laravel",
-        "laravel-icons"
+        "icons package",
+        "laravel-icons",
+        "svg icons"
     ],
     "homepage": "https://github.com/attrixtech/laravel-icons",
     "license": "MIT",
@@ -16,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.1"
+        "php": "^7.3"
     },
     "autoload": {
         "psr-4": {
@@ -36,6 +37,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "prefer-stable": true
 }
