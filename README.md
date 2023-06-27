@@ -48,6 +48,10 @@ Please review [our security policy](../../security/policy) on how to report secu
 - [Vijay Goswami](https://github.com/hexpit)
 - [James L. Masi](https://github.com/jlmasi)
 
+## Packagist
+---
+https://packagist.org/packages/attrixtech/laravel-icons
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
