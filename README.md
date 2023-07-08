@@ -6,7 +6,8 @@
 Laravel Icons is a easy to use SVG icons package that you will ever need in your laravel project.
 ## Support us
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-icons.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-icons)
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/9d533df726f75cd0d79bcaec008b4fb83bbf8921/logo-light.svg#gh-dark-mode-only)
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/9d533df726f75cd0d79bcaec008b4fb83bbf8921/logo-dark.svg#gh-light-mode-only)
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
